@@ -1,2 +1,2 @@
 # CSE450A-Video-Game-Programming
-C# and Unity
+Utilize C# in Unity for creating Video Games
