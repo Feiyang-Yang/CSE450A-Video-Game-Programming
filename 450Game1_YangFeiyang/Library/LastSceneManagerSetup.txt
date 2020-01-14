@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/450Q1_YangFeiyang.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
